@@ -1,2 +1,2 @@
-# Chemoi-Idi
-I am a hydrogeolist and a frontend web developer
+# test
+I am learning to use GitHub.
